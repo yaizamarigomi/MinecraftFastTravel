@@ -1,0 +1,2 @@
+# MinecraftFastTravel
+Location log.

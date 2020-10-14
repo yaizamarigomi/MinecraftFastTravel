@@ -1,0 +1,10 @@
+name: FastTravel
+version: 1.0
+author: Ander Raso Vazquez
+main: github.anderrasovazquez.FastTravel.Main
+description: Implements a fast travel system.
+
+commands:
+  fasttravel:
+    aliases: [ft]
+    description: /ft to fast travel
